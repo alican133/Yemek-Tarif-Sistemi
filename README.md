@@ -1,5 +1,5 @@
 
-Bu sistemde ilkin gerekli alanları doldururuz. Ardından da   tarif ekle butonuna basar ve tarif oluşturuzuz . Ayrıca bu ssistemd emevcut tarif de arayabiliriz . Ekstra
+Bu sistemde ilkin gerekli alanları doldururuz. Ardından da   tarif ekle butonuna basar ve tarif oluştururuz . Ayrıca bu sistemde mevcut tarif de arayabiliriz . Ekstra
 olarak ise , Mevcut bir tarife puan verebiliriz. İşte detaylar :
 
 
